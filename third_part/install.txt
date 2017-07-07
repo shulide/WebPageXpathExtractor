@@ -1,0 +1,6 @@
+ <<libxml2安装说明>>
+#tar zxvf libxml2-sources-2.9.0.tar.gz
+#cd libxml2-sources-2.9.0
+#./configure --prefix=/usr/local/ --without-zlib
+#make
+#make install
